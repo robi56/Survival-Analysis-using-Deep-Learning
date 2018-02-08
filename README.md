@@ -1,4 +1,4 @@
-#Survival Analysis using Deep Leanring
+#  Survial Analysis using Deep Learning
 
 This repository contains Bayesian Deep Learning based Articles , Papers and Repositories for Survival Analysis.
 ## Papers
