@@ -55,6 +55,8 @@ Source: https://www.nature.com/articles/s41598-017-10649-8
 Source: https://dl.acm.org/citation.cfm?id=3018719
 25. Association of Pathological Fibrosis With Renal Survival Using Deep Neural Networks  by Vijaya B.Kolachalama, Vipul C.Chitalia et all.<br> Kidney International Reports, 2018
 Source: https://www.sciencedirect.com/science/article/pii/S2468024917304370
+26. Deep Recurrent Survival Analysis by Kan Ren, Jiarui Qin et al. AAAI 2019 <br>
+Source: https://arxiv.org/abs/1809.02403
 
 
 ## Thesis 
