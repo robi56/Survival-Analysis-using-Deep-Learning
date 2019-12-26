@@ -1,6 +1,7 @@
 #  Survial Analysis using Deep Learning
 
 This repository contains Bayesian Deep Learning based Articles , Papers and Repositories for Survival Analysis.
+
 ## Papers
 1. Deep Survival Analysis by Rajesh Ranganath,Adler Perotte,David Blei et all. JMLR 2016<br>
 Source: http://proceedings.mlr.press/v56/Ranganath16.pdf 
@@ -58,13 +59,21 @@ Source: https://www.sciencedirect.com/science/article/pii/S2468024917304370
 26. Deep Recurrent Survival Analysis by Kan Ren, Jiarui Qin et al. AAAI 2019 <br>
 Source: https://arxiv.org/abs/1809.02403
 Code: https://github.com/rk2900/drsa
-
+27. Time-to-event prediction with neural networks and Cox regression by Håvard Kvamme, Ørnulf Borgan, and Ida Scheel. JMLR 2019<br>
+Source: http://jmlr.org/papers/v20/18-424.html
+Code: https://github.com/havakv/pycox
+28. A scalable discrete-time survival model for neural networks by Michael F. Gensheimer and Balasubramanian Narasimhan. PeerJ 2019<br>
+Source: https://peerj.com/articles/6257/ Code: https://github.com/MGensheimer/nnet-survival
+29. Continuous and discrete-time survival prediction with neural networks by Håvard Kvamme and Ørnulf Borgan. 2019<br>
+Source: https://arxiv.org/abs/1910.06724
+Code: https://github.com/havakv/pycox
 
 ## Thesis 
 1. Gaussian Process Based
 Approaches for Survival Analysis , Alan D. Saul, University of Sheffield, UK. 2017<br> 
 Source: http://etheses.whiterose.ac.uk/17946/1/thesis.pdf
-
+2. WTTE-RNN : Weibull Time To Event Recurrent Neural Network, Egil Martinsson, University of Gothenburg, Sweden 2016<br>
+Source: http://publications.lib.chalmers.se/records/fulltext/253611/253611.pdf
 
 ## Software
 1. DeepSurv: DeepSurv is a deep learning approach to survival analysis <br>
@@ -72,3 +81,6 @@ Source: https://github.com/jaredleekatzman/DeepSurv
 Blogs
 2. SurvivalNet: Deep learning survival models <br>
 Source: https://github.com/CancerDataScience/SurvivalNet
+3. Pycox: Survival analysis with PyTorch <br>
+Source: https://github.com/havakv/pycox
+
