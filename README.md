@@ -67,6 +67,9 @@ Source: https://peerj.com/articles/6257/ Code: https://github.com/MGensheimer/nn
 29. Continuous and discrete-time survival prediction with neural networks by Håvard Kvamme and Ørnulf Borgan. 2019<br>
 Source: https://arxiv.org/abs/1910.06724
 Code: https://github.com/havakv/pycox
+30. Deep Survival Machines: Fully Parametric Survival Regression and Representation Learning for Censored Data with Competing Risks by Nagpal et. al. 2021<br>
+Source: https://arxiv.org/abs/2003.01176
+Code: https://autonlab.github.io/DeepSurvivalMachines/
 
 ## Thesis 
 1. Gaussian Process Based
