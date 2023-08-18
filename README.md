@@ -70,7 +70,7 @@ Code: https://github.com/havakv/pycox
 30. Deep Survival Machines: Fully Parametric Survival Regression and Representation Learning for Censored Data with Competing Risks by Nagpal et. al. 2021<br>
 Source: https://arxiv.org/abs/2003.01176
 Code: https://autonlab.github.io/DeepSurvivalMachines/
-31. Neural Fine-Gray: Monotonic neural networks for competing risks by Jeanselme et. al. 20239<br>
+31. Neural Fine-Gray: Monotonic neural networks for competing risks by Jeanselme et. al. 2023<br>
 Source: https://proceedings.mlr.press/v209/jeanselme23a.html<br>
 Code: https://github.com/Jeanselme/NeuralFineGray
 
