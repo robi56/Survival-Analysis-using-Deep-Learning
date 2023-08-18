@@ -38,7 +38,7 @@ Uncertainty-Aware Event Prediction by Hossein Soleimani,  James Hensman,  and Su
 Source: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8013802
 16. Application of random survival forests in understanding the determinants of under-five child mortality in Uganda in the presence of covariates that satisfy the proportional and non-proportional hazards assumption by Justine B. Nasejje, Henry Mwambi. BMC Research Notes 2017 <br> 
 Source: https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-017-2775-6 <br>
-17.Posterior Consistency for a Non-parametric Survival Model under a Gaussian Process Prior by Tamara Fernández, Yee Whye Teh . 2016 <br>
+17. Posterior Consistency for a Non-parametric Survival Model under a Gaussian Process Prior by Tamara Fernández, Yee Whye Teh . 2016 <br>
 Source: https://arxiv.org/abs/1611.02335
 18. A comparison of the conditional inference survival forest model to random survival forests based on a simulation study as well as on two applications with time-to-event data byJustine B. NasejjeEmail author, Henry Mwambi, Keertan Dheda and Maia Lesosky. BMC Medical Research MethodologyBMC series – open, inclusive and trusted 2017 <br> 
 Source: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-017-0383-8
@@ -70,6 +70,9 @@ Code: https://github.com/havakv/pycox
 30. Deep Survival Machines: Fully Parametric Survival Regression and Representation Learning for Censored Data with Competing Risks by Nagpal et. al. 2021<br>
 Source: https://arxiv.org/abs/2003.01176
 Code: https://autonlab.github.io/DeepSurvivalMachines/
+31. Neural Fine-Gray: Monotonic neural networks for competing risks by Jeanselme et. al. 2023<br>
+Source: https://proceedings.mlr.press/v209/jeanselme23a.html<br>
+Code: https://github.com/Jeanselme/NeuralFineGray
 
 ## Thesis 
 1. Gaussian Process Based
